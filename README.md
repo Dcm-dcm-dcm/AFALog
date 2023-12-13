@@ -17,4 +17,16 @@ To begin training on BGL, run this code:
 ```
 python run.py
 ```
-
+# Citation
+Please cite if you use the data or code in this repo.
+```
+@INPROCEEDINGS{10301228,
+  author={Duan, Chiming and Jia, Tong and Cai, Huaqian and Li, Ying and Huang, Gang},
+  booktitle={2023 IEEE 34th International Symposium on Software Reliability Engineering (ISSRE)}, 
+  title={AFALog: A General Augmentation Framework for Log-based Anomaly Detection with Active Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={46-56},
+  doi={10.1109/ISSRE59848.2023.00068}}
+```

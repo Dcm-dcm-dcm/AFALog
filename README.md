@@ -1,7 +1,7 @@
-# DALog
-**DALog:A Data Augmentation Framework for Log-based Anomaly Detection with Deep Active Learning**
+# AFALog
+**AFALog: A General Augmentation Framework for Log-based Anomaly Detection with Active Learning**
 
-This version is in the form of DALog embedded in Transformer
+This version is in the form of AFALog embedded in Transformer
 ## Requirements
 ```
 numpy==1.23.4
